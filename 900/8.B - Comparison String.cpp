@@ -6,7 +6,7 @@ int main(){
     cin >>t;
     while(t--){
         ll n;
-        cin >> n;
+        cin >>n;
         string s;
         cin >> s;
         ll curr_length=1,max_length=1;
